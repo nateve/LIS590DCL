@@ -1,0 +1,475 @@
+[
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column MCZBASE.GET_PUBLICATION_AUTHORS_ALL(P.PUBLICATION_ID)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "MCZBASE.GET_PUBLICATION_AUTHORS_ALL(P.PUBLICATION_ID)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Parsley, R.L.",
+          "Parsley, R.L"
+        ],
+        "to": "Parsley, R.L."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Clark, H.L.",
+          "H.L. Clark"
+        ],
+        "to": "Clark, H.L."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Raymond, P.E.",
+          "Raymond P.E."
+        ],
+        "to": "Raymond, P.E."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Gahn, F.J. and Kammer, T.W.",
+          "Kammer, T.W. and Gahn, F.J."
+        ],
+        "to": "Gahn, F.J. and Kammer, T.W."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pojeta, J and Runnegar, B.",
+          "Pojeta, J. and Runnegar, B."
+        ],
+        "to": "Pojeta, J. and Runnegar, B."
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column MCZBASE.GET_PUBLICATION_AUTHORS_ALL(P.PUBLICATION_ID)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "MCZBASE.GET_PUBLICATION_AUTHORS_ALL(P.PUBLICATION_ID)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Shaw, A.B.",
+          "Shaw, A. B."
+        ],
+        "to": "Shaw, A.B."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bohaty, J.",
+          "Bohaty,J."
+        ],
+        "to": "Bohaty, J."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Clark, T.H.",
+          "Clark,T.H."
+        ],
+        "to": "Clark, T.H."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Shaw, F.C.",
+          "Shaw, F. C."
+        ],
+        "to": "Shaw, F.C."
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column JOURNAL_NAME",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "JOURNAL_NAME",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jour.Paleontology",
+          "Jour.Paleontology,",
+          "JOUR.PALEONTOLOGY,"
+        ],
+        "to": "Jour.Paleontology"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Palaeontographica",
+          "PALAEONTOGRAPHICA,",
+          "Palaeontographica,"
+        ],
+        "to": "Palaeontographica"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Harvard Univ.Mus.Comp.Zoology Bull.",
+          "Harvard Univ.Mus.Comp.Zoology Bull"
+        ],
+        "to": "Harvard Univ.Mus.Comp.Zoology Bull."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jour. Paleontology",
+          "Jour. Paleontology,"
+        ],
+        "to": "Jour.Paleontology"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bulls. Am. Paleontology",
+          "Bulls. Am. Paleontology,"
+        ],
+        "to": "Bulls. Am. Paleontology"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Science",
+          "Science,"
+        ],
+        "to": "Science"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Arkiv for Zoologi",
+          "Arkiv for Zoologi,"
+        ],
+        "to": "Arkiv for Zoologi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Palaeontographica Americana",
+          "Palaeontographica Americana,"
+        ],
+        "to": "Palaeontographica Americana"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Paleobiology",
+          "Paleobiology,"
+        ],
+        "to": "Paleobiology"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Geol.Soc.London Quart.Journal",
+          "Quart.Journal Geol.Soc.London"
+        ],
+        "to": "Geol.Soc.London Quart.Journal"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Palaeont.  Zeitschr.",
+          "Palaeont. Zeitschr."
+        ],
+        "to": "Palaeont.  Zeitschr."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Palaeontology",
+          "Palaeontology,"
+        ],
+        "to": "Palaeontology"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bull. of the MCZ,",
+          "Bull of the MCZ,"
+        ],
+        "to": "Bull. of the MCZ"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nautilus",
+          "Nautilus,"
+        ],
+        "to": "Nautilus"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ottawa Naturalist",
+          "Ottawa Naturalist,"
+        ],
+        "to": "Ottawa Naturalist"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Breviora",
+          "Breviora,"
+        ],
+        "to": "Breviora"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Geol.Soc.Amer.Bull.",
+          "Geol.Soc.Amer.Bull"
+        ],
+        "to": "Geol.Soc.Amer.Bull."
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column JOURNAL_NAME",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "JOURNAL_NAME",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bulls.Am.Paleontology",
+          "Bulls.Am.Paleontology,"
+        ],
+        "to": "Bulls.Am.Paleontology"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column JOURNAL_NAME",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "JOURNAL_NAME",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Boston Soc.Nat.Hist.Proc.",
+          "Boston Soc. Nat. Hist. Proc.",
+          "Boston Soc.Nat.Hist. Proc."
+        ],
+        "to": "Boston Soc.Nat.Hist.Proc."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Palaeontographical Soc. London Mono.,",
+          "Palaeontographical Soc.London Mono."
+        ],
+        "to": "Palaeontographical Soc.London Mono."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Palaeontology Spec. Paper",
+          "Palaeontology Spec.Paper"
+        ],
+        "to": "Palaeontology Spec. Paper"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Harvard Univ.Mus.Comp.Zoology Bull.",
+          "Harvard Univ. Mus. Comp. Zoology Bull."
+        ],
+        "to": "Harvard Univ.Mus.Comp.Zoology Bull."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Geol.Soc.Amer.Bull.",
+          "Geol. Soc. Amer. Bull."
+        ],
+        "to": "Geol.Soc.Amer.Bull."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Smithsonian Misc.Colln.",
+          "Smithsonian Misc. Colln."
+        ],
+        "to": "Smithsonian Misc.Colln."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bulls.Am.Paleontology",
+          "Bulls. Am. Paleontology"
+        ],
+        "to": "Bulls.Am.Paleontology"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Systeme Silurien du Centre de la Boheme Suppleme",
+          "Systeme Silurien du Centre de la Boheme Supplement"
+        ],
+        "to": "Systeme Silurien du Centre de la Boheme Supplement"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Palaeont.  Zeitschr.",
+          "Palaeont.Zeitschr."
+        ],
+        "to": "Palaeont.  Zeitschr."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NORTHEASTERN GEO.ENV.SCI.,",
+          "Northeastern Geo. Env. Sci."
+        ],
+        "to": "Northeastern Geo. Env. Sci."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Michigan Univ. Mus. Paleontology Contr.",
+          "Michigan Univ.Mus.Paleontology Contr."
+        ],
+        "to": "Michigan Univ. Mus. Paleontology Contr."
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column JOURNAL_NAME",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "JOURNAL_NAME",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Am.Mus.Nat.History Bull.",
+          "Am. Mus. Nat. History Bull."
+        ],
+        "to": "Am. Mus. Nat. History Bull."
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column JOURNAL_NAME",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "JOURNAL_NAME",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Palaeontology",
+          "Paleontology"
+        ],
+        "to": "Palaeontology"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column PUBLICATION_TITLE",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "PUBLICATION_TITLE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fossil Cephalopods of the Museum of Comparative Zoology ",
+          "The fossil Cephalopods of the Museum of Comparative Zoology"
+        ],
+        "to": "The Fossil Cephalopods of the Museum of Comparative Zoology"
+      }
+    ]
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Column",
+    "columnName": "Column"
+  }
+]
